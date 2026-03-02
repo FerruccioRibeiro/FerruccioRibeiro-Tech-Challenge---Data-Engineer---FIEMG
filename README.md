@@ -17,11 +17,11 @@ cd FerruccioRibeiro-Tech-Challenge---Data-Engineer---FIEMG
 ```bash
 # No Windows:
 python -m venv .venv
-.\venv\Scripts\activate
+.\.venv\Scripts\activate
 
 # No Linux/Mac:
 python3 -m venv .venv
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### 3. Instalar Dependências
